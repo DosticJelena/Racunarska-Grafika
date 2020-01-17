@@ -1,0 +1,24 @@
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\AssimpLib\Assimp32.dll
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\AssimpLib\Assimp64.dll
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\AssimpLib\AssimpNet.dll
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\3D Models\Touareg\Touareg.3DS
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\AssimpSample.exe.config
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\AssimpSample.exe
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\AssimpSample.pdb
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\AssimpNet.dll
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\SharpGL.dll
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\SharpGL.SceneGraph.dll
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\x86\PenguinConf\SharpGL.WPF.dll
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\MainWindow.baml
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\MainWindow.g.cs
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\App.g.cs
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample_Content.g.cs
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample_MarkupCompile.cache
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample.g.resources
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample.Properties.Resources.resources
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample.csproj.GenerateResource.cache
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample.csproj.CoreCompileInputs.cache
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample.csproj.CopyComplete
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample.exe
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample.pdb
+E:\7. Semestar\Racunarska grafika\Vezbe\RG - RA vezbe 4\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\PenguinConf\AssimpSample.csprojAssemblyReference.cache
